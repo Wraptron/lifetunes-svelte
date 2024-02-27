@@ -1,0 +1,1 @@
+.grid.svelte-o0h4um{grid-template-columns:repeat(var(--column),minmax(0,1fr))}.cell.svelte-o0h4um{width:30px;height:30px;margin:1px;background-color:#eee;display:flex;align-items:center;justify-content:center;cursor:pointer}.cell.on.svelte-o0h4um{background-color:#007acc;color:#fff}
